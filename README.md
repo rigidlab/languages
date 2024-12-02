@@ -1,2 +1,2 @@
-# japanese
-Learning Japanese
+# Languages
+Learning languages
